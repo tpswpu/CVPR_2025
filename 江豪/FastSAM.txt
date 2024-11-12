@@ -1,1 +1,2 @@
-pace
+https://github.com/CASIA-IVA-Lab/FastSAM
+预训练模型：https://pan.baidu.com/s/18KzBmOTENjByoWWR17zdiQ?pwd=0000
