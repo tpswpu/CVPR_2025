@@ -1,1 +1,2 @@
-pace
+https://github.com/facebookresearch/segment-anything/tree/main
+预训练模型使用的vit_l
